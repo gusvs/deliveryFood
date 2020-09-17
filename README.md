@@ -1,2 +1,3 @@
 # deliveryFood
-JavaScript training project
+
+JavaScript development
