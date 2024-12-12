@@ -22,6 +22,10 @@ button {
     margin: auto;
 }
 
+.container-promo {
+    overflow: hidden;
+}
+
 .header {
     display: flex;
     align-items: center;
